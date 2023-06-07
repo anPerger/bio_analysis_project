@@ -13,4 +13,4 @@ to month.
 There is also some distinction between males/females and adults/babies for a few of the species, which isn't a distinction I bothered to explore. I suspect there are some 
 interesting conclusions to draw with that information but I didn't feel knowledgeable enough to draw out those conclusions.
 
-Link to google doc with images and cleaned data (here)[https://drive.google.com/drive/folders/1HvoJq1bg8RjmsswAeTqn9ADb37p6V00Z?usp=share_link]
+Link to google doc with images and cleaned data [here](https://drive.google.com/drive/folders/1HvoJq1bg8RjmsswAeTqn9ADb37p6V00Z?usp=share_link)
